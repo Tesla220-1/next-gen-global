@@ -1,0 +1,11 @@
+.gall-img {
+    object-fit: cover;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-auto-columns: 1fr;
+    gap: 15px;
+    list-style: none;
+}
