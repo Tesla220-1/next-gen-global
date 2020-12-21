@@ -9,3 +9,7 @@
     gap: 15px;
     list-style: none;
 }
+
+.knowledge-item__descr_big {
+    text-align: left;
+}
